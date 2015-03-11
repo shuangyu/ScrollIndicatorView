@@ -94,6 +94,7 @@
         
         _slider = [[ILSSlider alloc] initWithFrame:CGRectMake(0, 0, kILSDefaultSliderSize, kILSDefaultSliderSize)];
         [_slider addTarget:self action:@selector(sliderValueChanged:) forControlEvents:UIControlEventValueChanged];
+        _slider.status = ILSSliderStatusTop;
         [self addSubview:_slider];
         self.clipsToBounds = TRUE;
     }
