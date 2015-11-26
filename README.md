@@ -1,6 +1,6 @@
 # ScrollIndicatorView
 <h2>What this plugin can do?</h2>  
-![alt tag](https://github.com/shuangyu/HPSlideViewController/blob/master/HPSlideViewController/Resources/demo.gif)
+![alt tag](https://github.com/shuangyu/ScrollIndicatorView/blob/master/ScrollIndicatorView/Resources/demo.gif)
 <h2>How to use this plugin?</h2> 
 Step 1 : import <b>UIScrollView+IndicatorExt.h</b>.
 </br>
